@@ -1,4 +1,4 @@
-#
+#Python Automation
 
 Ever tired of searching for a particular file in the downloads?
 This program automatically sorts the downloaded file and keep them in folder named by their extension.
